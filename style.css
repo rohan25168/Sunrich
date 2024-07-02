@@ -1,0 +1,52 @@
+
+.container{
+    background-image: linear-gradient(#b8a78c,#ded7cc,#b8a78c);
+    max-width: 100%;
+    max-height: 50%;
+    user-select: none;
+  
+}
+.collapse{
+    max-width: 100%;
+}
+#navbarSupportedContent{
+    background-color: #b8a78c;
+}
+.navbar{
+    padding-bottom: 0px;
+    max-width: 100%;
+    justify-content: center;
+}
+.row{
+    
+    max-height: 50%;
+}
+.head{
+    align-items: top ;
+    padding: 0px;
+}
+.carousel-item {
+    max-height: 50%;
+}
+.form-control{
+    max-width: 100%;
+}
+.carousel-item{
+    position: relative;
+}
+.carousel-text{
+    position:absolute;
+    top: 250px;
+    
+    left: 525px;
+}
+.Head{
+    justify-content: center;
+    left: 525px;
+}
+.card{
+    left: 50px;
+}
+.rec{
+    left: 200px;
+}
